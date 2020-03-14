@@ -1,0 +1,9 @@
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\bin\Debug\ArrayEditor.exe.config
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\bin\Debug\ArrayEditor.exe
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\bin\Debug\ArrayEditor.pdb
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\obj\Debug\ArrayEditor.csprojAssemblyReference.cache
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\obj\Debug\ArrayEditor.Form1.resources
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\obj\Debug\ArrayEditor.Properties.Resources.resources
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\obj\Debug\ArrayEditor.csproj.GenerateResource.cache
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\obj\Debug\ArrayEditor.exe
+D:\KhAI\2.4\ТП\Lab3\ArrayEditor\obj\Debug\ArrayEditor.pdb

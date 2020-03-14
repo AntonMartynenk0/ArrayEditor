@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfMasData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MasData>
+    <count>0</count>
+    <value>2291</value>
+  </MasData>
+  <MasData>
+    <count>1</count>
+    <value>448</value>
+  </MasData>
+  <MasData>
+    <count>2</count>
+    <value>4253</value>
+  </MasData>
+  <MasData>
+    <count>3</count>
+    <value>1952</value>
+  </MasData>
+  <MasData>
+    <count>4</count>
+    <value>2137</value>
+  </MasData>
+  <MasData>
+    <count>5</count>
+    <value>1723</value>
+  </MasData>
+  <MasData>
+    <count>6</count>
+    <value>3109</value>
+  </MasData>
+  <MasData>
+    <count>7</count>
+    <value>2075</value>
+  </MasData>
+</ArrayOfMasData>
